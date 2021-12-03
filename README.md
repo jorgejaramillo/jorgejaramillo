@@ -1,7 +1,7 @@
 ### STRONG FOCUS!
 
-SEO y Python  ❤️
-Open Source ✊
-Stronglify 🛰
-Performance 👽
-Coffee ☕️
+- SEO y Python  ❤️
+- Open Source ✊
+- Stronglify 🛰
+- Performance 👽
+- Coffee ☕️
