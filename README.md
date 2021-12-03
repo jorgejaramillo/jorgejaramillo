@@ -1,16 +1,19 @@
-### Hi there 👋
+### STRONG FOCUS!
 
-<!--
-**jorgejaramillo/jorgejaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ SEO y Python ❤️
 
-Here are some ideas to get you started:
+     _                         _ _  __       
+    | |                       | (_)/ _|      
+ ___| |_ _ __ ___  _ __   __ _| |_| |_ _   _ 
+/ __| __| '__/ _ \| '_ \ / _` | | |  _| | | |
+\__ \ |_| | | (_) | | | | (_| | | | | | |_| |
+|___/\__|_|  \___/|_| |_|\__, |_|_|_|  \__, |
+                          __/ |         __/ |
+                         |___/         |___/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> El mar nos da una lección aplicable la cultura, las olas de tanto
+> insistir con contra la indiferencia de la roca termina por agrietarla
+> y una vez agrietada nadie podrá contener la furia del oleaje
+
+Ultrarresistente, Alcolirykoz.
